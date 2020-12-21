@@ -1,0 +1,4 @@
+﻿  12.4.rec.cpp
+D:\Lab_12-2\12.4.rec\12.4.rec\12.4.rec.cpp(32,13): warning C4101: N: неиспользованная локальная переменная
+D:\Lab_12-2\12.4.rec\12.4.rec\12.4.rec.cpp(32,7): warning C4101: info: неиспользованная локальная переменная
+  12.4.rec.vcxproj -> D:\Lab_12-2\12.4.rec\Debug\12.4.rec.exe
